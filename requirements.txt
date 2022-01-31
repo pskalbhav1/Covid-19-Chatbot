@@ -1,3 +1,5 @@
 flask
 nltk
 numpy
+random
+sklearn
