@@ -1,7 +1,6 @@
 flask
 nltk
 numpy
-random
 sklearn
 gunicorn
 flask-heroku
