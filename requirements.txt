@@ -3,3 +3,6 @@ nltk
 numpy
 random
 sklearn
+gunicorn
+flask-heroku
+flask_cors
